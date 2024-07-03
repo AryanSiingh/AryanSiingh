@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-- 🌱 I’m currently learning **C++ DSA**
+- 🌱 I’m currently learning **Java DSA**
 
-- 💬 Ask me about **HTML, CSS, C++, SQL.**
+- 💬 Ask me about **HTML, CSS, Java, SQL.**
 
 - 📫 How to reach me **tech.aryansiingh@gmail.com**
 
